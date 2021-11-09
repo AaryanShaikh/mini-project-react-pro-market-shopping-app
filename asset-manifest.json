@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mini-project-react-pro-market-shopping-app/static/css/main.d2fa4b01.chunk.css",
+    "main.js": "/mini-project-react-pro-market-shopping-app/static/js/main.5486e7fa.chunk.js",
+    "main.js.map": "/mini-project-react-pro-market-shopping-app/static/js/main.5486e7fa.chunk.js.map",
+    "runtime-main.js": "/mini-project-react-pro-market-shopping-app/static/js/runtime-main.80675495.js",
+    "runtime-main.js.map": "/mini-project-react-pro-market-shopping-app/static/js/runtime-main.80675495.js.map",
+    "static/css/2.58a45539.chunk.css": "/mini-project-react-pro-market-shopping-app/static/css/2.58a45539.chunk.css",
+    "static/js/2.e2095e5b.chunk.js": "/mini-project-react-pro-market-shopping-app/static/js/2.e2095e5b.chunk.js",
+    "static/js/2.e2095e5b.chunk.js.map": "/mini-project-react-pro-market-shopping-app/static/js/2.e2095e5b.chunk.js.map",
+    "static/js/3.26c314fa.chunk.js": "/mini-project-react-pro-market-shopping-app/static/js/3.26c314fa.chunk.js",
+    "static/js/3.26c314fa.chunk.js.map": "/mini-project-react-pro-market-shopping-app/static/js/3.26c314fa.chunk.js.map",
+    "index.html": "/mini-project-react-pro-market-shopping-app/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/mini-project-react-pro-market-shopping-app/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.d2fa4b01.chunk.css.map": "/mini-project-react-pro-market-shopping-app/static/css/main.d2fa4b01.chunk.css.map",
+    "static/js/2.e2095e5b.chunk.js.LICENSE.txt": "/mini-project-react-pro-market-shopping-app/static/js/2.e2095e5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80675495.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.e2095e5b.chunk.js",
+    "static/css/main.d2fa4b01.chunk.css",
+    "static/js/main.5486e7fa.chunk.js"
+  ]
+}
